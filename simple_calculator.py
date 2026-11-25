@@ -8,16 +8,16 @@ if opration == "add" or "+" :
     c=num1+num2
     print(c)
 
-if opration == "add" or "+" :
-    c=num1+num2
+elif opration == "sub" or "-" :
+    c=num1-num2
     print(c)
 
-if opration == "add" or "+" :
-    c=num1+num2
+elif opration == "mul" or "*" :
+    c=num1*num2
     print(c)
 
-if opration == "add" or "+" :
-    c=num1+num2
+elif opration == "div" or "/" :
+    c=num1/num2
     print(c)
 
 else:
